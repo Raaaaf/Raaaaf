@@ -8,3 +8,5 @@
 		window.name = "ClientWndw";
 		if (typeof HabboClient != "undefined") { HabboClient.windowName = "ClientWndw"; }
 	</script>
+
+En cours de progression...
