@@ -7,4 +7,4 @@
 		var habboDefaultClientPopupUrl = "{url}/client";
 		window.name = "ClientWndw";
 		if (typeof HabboClient != "undefined") { HabboClient.windowName = "ClientWndw"; }
-	</script> 
+	</script>
